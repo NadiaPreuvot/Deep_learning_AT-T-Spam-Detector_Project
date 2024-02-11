@@ -20,6 +20,7 @@ You can install these packages using pip:
 ```
 pip install tensorflow keras numpy pandas matplotlib
 ```
+In order to have a well-structured and readable notebook, after opening the notebook, you must click on the small “open colab” tab.
 
 ## File Descriptions
 
